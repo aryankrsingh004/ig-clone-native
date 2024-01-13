@@ -1,4 +1,10 @@
-# My Universal React Project
+# ig-clone-native
+Instagram application clone for android and ios platform using React Native.
+
+### Screens
+
+| ![](assets/screenshot/home.jpg) | ![](assets/screenshot/login.jpg) | ![](assets/screenshot/signup.jpg) |  ![](assets/screenshot/post.jpg) |
+| :-------------: | :-------------: | :-------------:  | :-------------:  |
 
 <p>
   <!-- iOS -->
@@ -25,16 +31,7 @@
   - Android: [Client Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample)
   - Web: Any web browser
 
-## Running/Modifying Native Code
 
-You can generate native iOS and Android projects from your Expo config file (**app.json**/ **app.config.js**) by runnning `npx expo prebuild`. These native projects can then be compiled and run via XCode and Android Studio.
-
-> 💡 Learn more about [native code in Expo](https://docs.expo.dev/workflow/customizing/)
-
-## Publishing
-
-- Deploy the native app to the App store and Play store using this guide: [Deployment](https://docs.expo.dev/distribution/app-stores/).
-- Deploy the website using this guide: [Web deployment](https://docs.expo.dev/distribution/publishing-websites/).
 
 ## 📝 Notes
 
